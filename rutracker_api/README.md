@@ -26,3 +26,6 @@ cp -r rutracker_api *your project folder*
 
 ## Documentation
 Coming soon!
+
+## Author
+https://github.com/raitonoberu/rutracker-api
